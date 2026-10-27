@@ -8,3 +8,4 @@ pillow
 requests
 PyPDF2
 docx2txt
+gunicorn
